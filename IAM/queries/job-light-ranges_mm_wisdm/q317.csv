@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.phonetic_code,>=,P6153,t.kind_id,=,1,t.production_year,<=,1975.0,t.longitude,>,-101.0681058,t.longitude,<,-85.6331102#2803532

@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.kind_id,=,7,mk.keyword_id,=,232,t.season_nr,>=,1.0,t.phonetic_code,<=,B6253,t.longitude,>,-95.278262,t.longitude,<,-76.8597248#500

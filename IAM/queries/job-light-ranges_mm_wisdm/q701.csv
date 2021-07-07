@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.kind_id,=,1,t.production_year,=,1997.0,ci.role_id,=,10,t.longitude,>,-112.1878614,mi.x,>,-6.797699000000001,mi.y,>,-7.7546539999999995#38851817

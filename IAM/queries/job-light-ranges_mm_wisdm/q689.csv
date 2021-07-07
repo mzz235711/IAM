@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.kind_id,=,1,t.production_year,<=,2004.0,ci.role_id,=,10,t.latitude,<,42.1311278,mi.x,>,-3.617157,mi.x,<,3.8740845,mi.y,>,-7.365066499999999,mi.y,<,6.061325,mi.z,>,-2.799778#13585679

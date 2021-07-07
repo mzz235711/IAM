@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.production_year,=,1994.0,t.kind_id,=,1,mc.company_type_id,=,1,mi.info_type_id,=,17,mi.z,>,-5.753586#5498691

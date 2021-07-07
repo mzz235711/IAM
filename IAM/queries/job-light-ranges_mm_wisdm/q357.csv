@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,<=,1998.0,t.kind_id,=,7,t.phonetic_code,=,Z5345,t.latitude,>,28.530380800000003,t.latitude,<,41.799015000000004#0

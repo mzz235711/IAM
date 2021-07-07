@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.phonetic_code,=,E2162,mc.company_type_id,=,2,t.production_year,=,2007.0,t.latitude,<,41.054275,t.longitude,>,-122.6215899#373

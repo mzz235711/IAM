@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#ci.role_id,=,2,t.production_year,>=,1984.0,t.phonetic_code,<=,S365,t.latitude,>,37.7673614,t.latitude,<,42.0408898,t.longitude,>,-121.8994835,t.longitude,<,-83.9027476#419799

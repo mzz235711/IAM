@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#ci.nr_order,<=,18.0,t.kind_id,=,7,t.episode_nr,<=,71.0,ci.role_id,=,1,t.phonetic_code,>=,G6535,t.production_year,>=,2009.0,t.longitude,>,-120.798546#255820

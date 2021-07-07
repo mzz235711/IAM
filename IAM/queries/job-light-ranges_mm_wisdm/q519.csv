@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#t.phonetic_code,<=,L2362,t.kind_id,=,1,t.production_year,>=,1987.0,mi.info_type_id,=,1,mi.x,>,-3.4626143,mi.y,>,-9.89241,mi.y,<,2.279729,mi.z,>,-8.242325#1207816

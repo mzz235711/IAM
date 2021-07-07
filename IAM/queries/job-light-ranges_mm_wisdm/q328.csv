@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#ci.nr_order,<=,13.0,t.production_year,=,1971.0,ci.role_id,=,2,t.phonetic_code,<=,B5213,t.longitude,>,-117.25814650000001,t.longitude,<,-82.632988#591

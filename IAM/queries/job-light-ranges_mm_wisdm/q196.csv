@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#mi_idx.info_type_id,=,99,t.production_year,<=,1989.0,mk.keyword_id,=,62,t.kind_id,=,1,t.phonetic_code,>=,F1362,t.longitude,>,-115.01#111

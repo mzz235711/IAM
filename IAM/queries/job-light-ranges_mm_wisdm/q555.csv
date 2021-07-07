@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mc.company_type_id,=,1,t.production_year,=,1995.0,mk.keyword_id,=,71583,mi.info_type_id,=,18,t.kind_id,=,1,t.phonetic_code,<=,H2632,t.longitude,>,-118.48939399999999,mi.y,>,-9.800066000000001,mi.y,<,3.3069,mi.z,>,-0.1803284#115

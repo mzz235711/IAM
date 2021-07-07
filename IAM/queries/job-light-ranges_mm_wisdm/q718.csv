@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#mi.info_type_id,=,17,t.kind_id,=,1,t.production_year,=,1981.0,t.latitude,>,33.7682473,t.latitude,<,40.7512222,mi.y,<,6.9345550000000005#814701

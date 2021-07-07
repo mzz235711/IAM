@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#ci.nr_order,<=,1.0,ci.role_id,=,1,t.kind_id,=,7,t.latitude,>,33.621329100000004,t.latitude,<,43.6384954#365809

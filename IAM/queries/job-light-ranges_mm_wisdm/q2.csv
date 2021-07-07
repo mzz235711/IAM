@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.production_year,<=,2012.0,t.season_nr,=,2.0,t.episode_nr,>=,8.0,t.phonetic_code,>=,N162,mi_idx.info_type_id,=,101,mc.company_type_id,=,1,t.longitude,>,-118.2191148#5296

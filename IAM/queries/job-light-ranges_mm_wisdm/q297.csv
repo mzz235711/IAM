@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#ci.nr_order,>=,14.0,mk.keyword_id,=,20447,t.production_year,>=,1935.0,t.latitude,>,35.1749687,t.latitude,<,39.6640676#216

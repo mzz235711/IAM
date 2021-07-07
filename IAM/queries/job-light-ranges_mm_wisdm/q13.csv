@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.season_nr,<=,1.0,t.production_year,<=,2008.0,mi_idx.info_type_id,=,100,t.longitude,>,-87.3359198,t.longitude,<,-82.6916141#9285

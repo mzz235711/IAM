@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.phonetic_code,<=,A5162,t.episode_nr,<=,5.0,t.production_year,=,1982.0,t.latitude,<,38.63463970000001#655

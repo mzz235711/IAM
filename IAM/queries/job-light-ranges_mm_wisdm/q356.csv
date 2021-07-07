@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.episode_nr,=,6.0,t.production_year,=,1996.0,t.phonetic_code,=,U5162,ci.role_id,=,1,t.season_nr,<=,3.0,t.longitude,<,-86.0849764#0

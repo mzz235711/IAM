@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.series_years,<=,1966-1971,t.phonetic_code,<=,F5416,t.kind_id,=,2,mc.company_type_id,=,1,t.latitude,<,39.71303270000001#7848

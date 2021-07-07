@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#mk.keyword_id,=,37748,t.kind_id,=,1,t.phonetic_code,=,C6514,t.latitude,<,40.724740000000004#29

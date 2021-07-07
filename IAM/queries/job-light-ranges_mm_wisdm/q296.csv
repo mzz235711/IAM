@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#ci.role_id,=,1,mk.keyword_id,=,2752,t.kind_id,=,1,ci.nr_order,<=,13.0,t.longitude,<,-70.8876684#1136

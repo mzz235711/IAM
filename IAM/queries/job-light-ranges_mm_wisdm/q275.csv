@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#mk.keyword_id,=,28078,ci.role_id,=,4,t.production_year,>=,1997.0,t.latitude,<,43.073898299999996#27

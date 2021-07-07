@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#ci.role_id,=,3,mi.info_type_id,=,106,t.kind_id,=,1,t.production_year,>=,2011.0,mi.y,>,-2.149063,mi.y,<,5.230423,mi.z,>,-0.9979096,mi.z,<,8.605061#44223

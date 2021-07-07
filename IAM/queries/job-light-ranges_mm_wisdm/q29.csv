@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.production_year,<=,1969.0,t.kind_id,=,7,mc.company_type_id,=,2,t.phonetic_code,>=,L1532,t.season_nr,>=,1.0,t.longitude,<,-82.3703434#17145

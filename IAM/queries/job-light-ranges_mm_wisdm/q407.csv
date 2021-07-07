@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#mc.company_type_id,=,1,t.production_year,=,2005.0,ci.role_id,=,1,t.longitude,>,-122.8160108,t.longitude,<,-71.10423#562929

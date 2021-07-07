@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#t.production_year,>=,2005.0,mi.info_type_id,=,15,mc.company_type_id,=,2,mi.x,<,2.8670654,mi.y,>,-3.3783417#12418553

@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#t.phonetic_code,=,S2323,mk.keyword_id,=,934,t.production_year,>=,2007.0,t.kind_id,=,1,t.latitude,>,25.7069893,t.latitude,<,39.834315000000004,t.longitude,>,-96.3471527#3

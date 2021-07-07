@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.production_year,>=,1997.0,t.kind_id,=,1,t.phonetic_code,<=,G6215,mk.keyword_id,=,11559,t.latitude,>,34.08409,t.latitude,<,40.691071#1745

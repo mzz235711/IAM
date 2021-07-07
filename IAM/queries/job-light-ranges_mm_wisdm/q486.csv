@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#t.kind_id,=,1,t.production_year,=,1996.0,mi_idx.info_type_id,=,101,mk.keyword_id,=,5408,mi.info_type_id,=,16,t.phonetic_code,<=,S1316,t.latitude,>,30.480223499999997,t.latitude,<,42.3514951,t.longitude,<,-74.330557#35

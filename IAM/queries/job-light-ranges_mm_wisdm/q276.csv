@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#mk.keyword_id,=,1770,ci.role_id,=,1,t.kind_id,=,1,t.production_year,>=,2005.0,ci.nr_order,=,46.0,t.latitude,>,29.7338311,t.longitude,>,-118.5001357,t.longitude,<,-83.2125763#16

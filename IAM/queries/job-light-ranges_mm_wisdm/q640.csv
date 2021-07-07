@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#ci.role_id,=,1,t.production_year,>=,2010.0,ci.nr_order,=,19.0,t.latitude,<,46.96567,t.longitude,<,-74.4338352#1549412

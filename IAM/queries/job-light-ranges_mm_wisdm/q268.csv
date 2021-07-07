@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#t.production_year,<=,1990.0,t.phonetic_code,>=,G3136,t.kind_id,=,1,mi.z,<,7.267212#11244098

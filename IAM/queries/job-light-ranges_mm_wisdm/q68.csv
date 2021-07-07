@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.season_nr,<=,7.0,t.phonetic_code,>=,L1524,t.episode_nr,<=,9.0,mc.company_type_id,=,2,mk.keyword_id,=,3575,t.latitude,>,33.986259999999994,t.latitude,<,41.9073677,t.longitude,>,-123.5862395#58

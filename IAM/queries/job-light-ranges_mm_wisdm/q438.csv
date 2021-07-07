@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#mi.info_type_id,=,15,t.season_nr,=,1.0,t.kind_id,=,7,mi.x,>,-2.270279,mi.y,>,-10.464691,mi.y,<,9.463669,mi.z,>,0.1363831#213822

@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.production_year,>=,2012.0,mc.company_type_id,=,1,t.kind_id,=,1,t.phonetic_code,>=,D6252,ci.role_id,=,1,t.latitude,<,39.8806#232891

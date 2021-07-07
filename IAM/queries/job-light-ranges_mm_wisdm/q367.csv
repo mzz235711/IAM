@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.phonetic_code,=,I5653,ci.role_id,=,2,ci.nr_order,>=,3.0,t.latitude,<,41.7532,t.longitude,>,-91.4692068,t.longitude,<,-80.25054499999999#24

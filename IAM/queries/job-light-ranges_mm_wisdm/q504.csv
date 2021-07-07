@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#t.episode_nr,=,3.0,mk.keyword_id,=,1962,t.season_nr,>=,3.0,t.phonetic_code,<=,E5365,mi.info_type_id,=,15,mi.x,>,-4.109558,mi.x,<,2.181076,mi.y,>,-4.220886,mi.y,<,9.117279,mi.z,>,-1.493927,mi.z,<,8.0155945#3

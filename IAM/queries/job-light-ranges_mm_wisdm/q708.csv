@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.kind_id,=,2,t.series_years,=,1994-2004,ci.role_id,=,10,mc.company_type_id,=,1,t.production_year,=,1994.0,t.latitude,>,38.025600399999995,t.longitude,<,-78.1524169#4140

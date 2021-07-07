@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.imdb_index,=,I,t.phonetic_code,>=,M2162,t.kind_id,=,1,mc.company_type_id,=,2,t.latitude,<,42.378840000000004,t.longitude,>,-95.1893053#42156

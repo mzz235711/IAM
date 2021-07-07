@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,>=,1988.0,t.phonetic_code,>=,C6312,ci.nr_order,=,17.0,ci.role_id,=,1,t.latitude,>,37.5294304#27811

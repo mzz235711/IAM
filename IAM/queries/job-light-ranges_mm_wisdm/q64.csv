@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.kind_id,=,7,mk.keyword_id,=,8281,t.phonetic_code,=,P43,t.production_year,=,1978.0,mc.company_type_id,=,1,t.season_nr,<=,1.0,t.latitude,>,35.974612,t.longitude,>,-122.42885109999999,t.longitude,<,-74.0106778#0

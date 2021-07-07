@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.phonetic_code,>=,P142,ci.role_id,=,10,t.kind_id,=,1,t.production_year,=,2013.0,t.latitude,>,28.3343045,t.longitude,>,-119.89433970000002,t.longitude,<,-78.787#8543

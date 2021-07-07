@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#mi.info_type_id,=,5,t.production_year,=,1986.0,mc.company_type_id,=,1,t.phonetic_code,>=,A452,mk.keyword_id,=,7632,mi_idx.info_type_id,=,99,t.longitude,<,-77.4703792,mi.x,>,-4.129364,mi.z,>,-6.304474#3167

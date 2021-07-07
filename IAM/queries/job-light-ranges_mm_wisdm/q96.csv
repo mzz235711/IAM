@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.phonetic_code,=,U5362,t.production_year,>=,1987.0,mc.company_type_id,=,1,t.longitude,>,-87.62505,t.longitude,<,-73.76543670000001#19782

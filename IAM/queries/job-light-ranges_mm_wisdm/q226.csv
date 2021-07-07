@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#t.kind_id,=,7,t.season_nr,=,6.0,mc.company_type_id,=,1,t.phonetic_code,=,T2512,t.episode_nr,<=,19.0,mi.info_type_id,=,17,mi.y,<,9.085129#1

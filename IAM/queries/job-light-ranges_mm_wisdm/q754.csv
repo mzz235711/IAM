@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#t.phonetic_code,>=,F21,t.production_year,=,1997.0,t.kind_id,=,1,mi_idx.info_type_id,=,101,mi.info_type_id,=,13,mi.x,<,8.401947,mi.z,>,-7.8564606,mi.z,<,5.755294999999999#4065037

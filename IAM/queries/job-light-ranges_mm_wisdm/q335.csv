@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.kind_id,=,7,ci.role_id,=,2,t.episode_nr,=,2.0,t.longitude,<,-72.8105011#188430

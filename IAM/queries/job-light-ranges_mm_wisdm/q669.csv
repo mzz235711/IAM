@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.production_year,=,2011.0,t.phonetic_code,>=,G6545,mi.info_type_id,=,16,t.kind_id,=,1,mi.y,<,-0.8965301999999999,mi.z,>,-4.6013947#2204367

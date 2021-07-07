@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#ci.role_id,=,1,t.phonetic_code,=,E41,mk.keyword_id,=,7300,t.production_year,<=,2003.0,t.latitude,<,44.93426029999999#1035

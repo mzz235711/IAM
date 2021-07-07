@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.kind_id,=,7,t.production_year,<=,2002.0,ci.role_id,=,1,t.episode_nr,<=,65.0,t.longitude,<,-78.57821#1871518

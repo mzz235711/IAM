@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#mi_idx.info_type_id,=,99,t.kind_id,=,1,t.imdb_index,<=,I,mi.info_type_id,=,16,t.phonetic_code,=,C426,mk.keyword_id,=,121,t.latitude,>,27.476321000000002,t.latitude,<,38.926137100000005#46

@@ -1,0 +1,1 @@
+movie_companies mc,movie_keyword mk,title t#t.id=mc.movie_id,mc.movie_id=mk.movie_id#t.episode_nr,<=,9.0,t.production_year,>=,1999.0,t.phonetic_code,<=,R32,t.kind_id,=,7,t.latitude,<,42.82,t.longitude,>,-117.1465897,t.longitude,<,-79.49879#264296

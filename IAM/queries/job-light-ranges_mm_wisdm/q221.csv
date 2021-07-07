@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#mc.company_type_id,=,1,t.kind_id,=,2,mi.info_type_id,=,87,t.series_years,>=,1966-1969,t.phonetic_code,<=,S3636,t.production_year,>=,1966.0,t.latitude,>,34.1664405,t.longitude,<,-77.9974421,mi.x,<,10.710663#1915

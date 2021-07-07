@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#ci.role_id,=,10,mk.keyword_id,=,731,t.production_year,>=,2003.0,t.phonetic_code,>=,A5323,t.kind_id,=,3,t.longitude,>,-89.8005905,t.longitude,<,-82.93737#265

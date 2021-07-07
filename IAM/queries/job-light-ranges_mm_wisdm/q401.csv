@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.season_nr,=,4.0,mc.company_type_id,=,1,t.production_year,>=,2002.0,t.episode_nr,>=,21.0,t.kind_id,=,7,t.latitude,>,32.21995,t.longitude,>,-92.0193493#36568

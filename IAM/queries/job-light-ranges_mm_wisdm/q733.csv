@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.phonetic_code,>=,D5,t.production_year,<=,2006.0,mc.company_type_id,=,1,t.kind_id,=,7,t.season_nr,<=,5.0,t.episode_nr,>=,4.0,t.latitude,<,42.958445000000005,mi.x,<,3.1865845#18772181

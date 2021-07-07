@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#mc.company_type_id,=,1,t.season_nr,=,2.0,t.phonetic_code,=,K3264,mi.info_type_id,=,13,t.latitude,>,36.0635,t.latitude,<,40.7233185,mi.x,>,-6.972289999999999,mi.x,<,1.8792572,mi.y,<,7.403686500000001,mi.z,<,8.735123#0

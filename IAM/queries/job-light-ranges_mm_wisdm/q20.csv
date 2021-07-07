@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.phonetic_code,>=,T25,mc.company_type_id,=,2,t.production_year,=,1980.0,t.kind_id,=,1,t.longitude,>,-119.16722220000001,t.longitude,<,-86.0723#336

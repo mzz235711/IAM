@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mk.keyword_id,=,5269,t.phonetic_code,=,F6314,t.production_year,=,2007.0,ci.role_id,=,10,mc.company_type_id,=,1,t.longitude,>,-94.37150720000001,t.longitude,<,-74.001621#300

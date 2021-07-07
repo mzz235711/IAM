@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mc.company_type_id,=,1,mi.info_type_id,=,16,mk.keyword_id,=,1905,mi.x,>,-12.602592999999999,mi.x,<,6.2956389999999995#174575

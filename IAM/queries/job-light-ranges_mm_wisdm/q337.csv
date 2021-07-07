@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.season_nr,>=,1.0,t.production_year,<=,1989.0,ci.role_id,=,3,t.kind_id,=,7,t.latitude,<,39.92559,t.longitude,>,-90.02311170000002,t.longitude,<,-76.462067#79294

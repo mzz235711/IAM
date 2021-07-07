@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#mi.info_type_id,=,97,t.production_year,=,2000.0,t.kind_id,=,1,t.longitude,>,-93.730281,mi.y,<,-0.5592651,mi.z,>,-5.732635500000001,mi.z,<,6.756698599999999#7478

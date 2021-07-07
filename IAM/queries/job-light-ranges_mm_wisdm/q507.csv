@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#mk.keyword_id,=,5603,mi.info_type_id,=,107,t.kind_id,=,1,mi.y,>,-6.2451324#18989

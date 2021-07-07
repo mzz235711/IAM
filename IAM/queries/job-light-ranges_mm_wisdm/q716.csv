@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.season_nr,<=,5.0,t.kind_id,=,7,mi.info_type_id,=,16,t.longitude,>,-121.9773,mi.x,<,1.6947631999999997#28461155

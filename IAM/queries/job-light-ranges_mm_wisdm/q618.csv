@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#t.phonetic_code,=,S513,mk.keyword_id,=,16410,t.kind_id,=,1,mc.company_type_id,=,2,t.production_year,>=,2004.0,t.latitude,>,36.1058207#1280

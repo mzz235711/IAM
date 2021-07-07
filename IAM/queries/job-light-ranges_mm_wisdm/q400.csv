@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#ci.nr_order,>=,15.0,t.production_year,<=,1972.0,t.kind_id,=,1,t.phonetic_code,>=,R4524,mc.company_type_id,=,1,t.longitude,>,-96.6593324#87438

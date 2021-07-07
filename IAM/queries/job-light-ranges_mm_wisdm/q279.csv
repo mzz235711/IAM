@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.phonetic_code,=,F6142,ci.role_id,=,3,t.production_year,>=,1993.0,t.latitude,<,39.14466029999999#625

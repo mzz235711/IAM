@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.imdb_index,=,I,t.kind_id,=,1,mi.info_type_id,=,107,mi_idx.info_type_id,=,101,t.production_year,<=,2008.0,t.latitude,>,26.033895899999997,t.latitude,<,42.534222,mi.z,>,-5.7180480000000005,mi.z,<,7.742447#137148

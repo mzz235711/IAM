@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.phonetic_code,=,E121,t.kind_id,=,1,mc.company_type_id,=,1,t.longitude,>,-122.41333629999998,mi.x,>,-4.1578827,mi.x,<,3.8120727999999997,mi.y,<,3.5715332#45240

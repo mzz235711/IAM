@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#t.production_year,>=,1937.0,mc.company_type_id,=,2,t.phonetic_code,<=,G4562,t.kind_id,=,1,t.latitude,>,26.465252399999997,t.latitude,<,45.5365525,t.longitude,>,-98.1193553,mi.y,<,-1.9972076#1413972

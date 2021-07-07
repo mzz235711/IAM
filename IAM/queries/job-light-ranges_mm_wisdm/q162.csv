@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#t.production_year,>=,1940.0,mi_idx.info_type_id,=,99,t.kind_id,=,1,mk.keyword_id,=,6407,t.latitude,>,28.608371899999998,t.latitude,<,42.382020000000004#178

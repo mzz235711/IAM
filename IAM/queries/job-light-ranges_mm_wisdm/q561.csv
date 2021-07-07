@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#t.phonetic_code,>=,F3236,mk.keyword_id,=,1382,t.kind_id,=,1,mc.company_type_id,=,2,t.latitude,<,38.349011299999994,mi.z,>,-1.0243073,mi.z,<,0.2491455#56910

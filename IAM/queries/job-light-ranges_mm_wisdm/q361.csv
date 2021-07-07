@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.kind_id,=,7,t.production_year,=,1980.0,t.episode_nr,=,5.0,t.latitude,>,32.285916,t.latitude,<,42.9178886#3872

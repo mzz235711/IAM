@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#mk.keyword_id,=,4248,t.production_year,>=,1971.0,t.kind_id,=,7,t.episode_nr,>=,2.0,t.latitude,>,33.969864,t.latitude,<,41.641,t.longitude,>,-111.72500600000001,t.longitude,<,-77.07361230000001,mi.y,>,-8.898041000000001#133

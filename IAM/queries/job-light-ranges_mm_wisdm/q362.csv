@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,=,2002.0,t.phonetic_code,=,I4523,t.kind_id,=,7,t.season_nr,<=,3.0,ci.role_id,=,4,t.episode_nr,<=,19.0,t.latitude,>,29.1473,t.latitude,<,40.9662782,t.longitude,>,-123.0123071#3

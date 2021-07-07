@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#t.phonetic_code,>=,A523,ci.role_id,=,2,mc.company_type_id,=,2,t.longitude,>,-104.59361109999999#64834399

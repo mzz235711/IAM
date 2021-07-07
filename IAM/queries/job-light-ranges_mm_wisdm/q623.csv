@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#ci.role_id,=,2,t.phonetic_code,=,D13,mk.keyword_id,=,2963,ci.nr_order,>=,51.0,t.latitude,>,25.5394793#58

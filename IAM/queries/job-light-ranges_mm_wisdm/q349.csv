@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.kind_id,=,7,t.episode_nr,=,20.0,t.production_year,<=,2010.0,t.longitude,<,-73.976067#201955

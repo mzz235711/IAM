@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mc.company_type_id,=,1,t.kind_id,=,1,ci.nr_order,=,35.0,t.imdb_index,=,I,t.phonetic_code,=,P6532,t.longitude,>,-119.817543#7482

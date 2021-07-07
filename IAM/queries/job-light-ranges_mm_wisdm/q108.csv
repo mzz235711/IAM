@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#mi.info_type_id,=,5,t.production_year,=,2000.0,t.phonetic_code,=,N1652,mk.keyword_id,=,545,t.longitude,>,-97.7445944,mi.x,>,-6.4987639999999995,mi.y,>,-9.2322235,mi.y,<,-1.0534973,mi.z,>,-4.3749237,mi.z,<,1.042511#0

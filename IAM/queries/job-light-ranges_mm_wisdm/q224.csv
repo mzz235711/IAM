@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#mc.company_type_id,=,1,mi.info_type_id,=,85,t.kind_id,=,1,t.phonetic_code,=,W3235,mi.x,>,-3.9748077000000004,mi.x,<,1.9864654999999998,mi.y,>,-5.6872764,mi.y,<,7.466202,mi.z,>,-1.4875793,mi.z,<,16.382324#0

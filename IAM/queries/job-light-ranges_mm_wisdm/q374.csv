@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.season_nr,=,1.0,ci.role_id,=,3,t.episode_nr,<=,912.0,t.phonetic_code,=,N2426,t.production_year,>=,2013.0,t.longitude,>,-115.1741848#5

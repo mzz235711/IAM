@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.phonetic_code,=,H4231,t.episode_nr,<=,13.0,ci.role_id,=,8,t.production_year,<=,2005.0,t.kind_id,=,7,t.latitude,>,29.706109899999998,t.longitude,<,-79.21123309999999#19

@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#mi_idx.info_type_id,=,100,mi.info_type_id,=,7,t.kind_id,=,1,t.latitude,>,35.1721,t.latitude,<,41.3911249,t.longitude,>,-106.4125872,t.longitude,<,-79.92446140000001,mi.x,<,0.2116242,mi.z,>,-1.0938568000000002#138789

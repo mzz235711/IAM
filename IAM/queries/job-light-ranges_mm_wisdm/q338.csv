@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.season_nr,<=,2.0,t.phonetic_code,>=,F6535,t.episode_nr,>=,18.0,ci.role_id,=,3,t.production_year,>=,2012.0,t.latitude,>,31.8707963,t.latitude,<,40.595646200000004,t.longitude,<,-82.41540529999999#9114

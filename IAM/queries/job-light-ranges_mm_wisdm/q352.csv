@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,<=,2011.0,ci.nr_order,=,8.0,t.kind_id,=,7,t.longitude,<,-84.1766911#142193

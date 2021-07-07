@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#t.production_year,>=,2008.0,t.episode_nr,>=,4.0,t.season_nr,<=,1.0,t.kind_id,=,7,t.phonetic_code,<=,B2136,mi.info_type_id,=,16,mi.x,>,-7.5653076,mi.y,>,-2.1522377#8451

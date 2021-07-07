@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#t.season_nr,=,2.0,t.episode_nr,<=,2.0,t.production_year,>=,2009.0,t.latitude,>,37.3769,t.latitude,<,47.6174406#5394

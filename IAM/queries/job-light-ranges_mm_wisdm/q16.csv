@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.phonetic_code,>=,B3126,t.production_year,=,1933.0,mi_idx.info_type_id,=,99,mc.company_type_id,=,1,t.kind_id,=,1,t.latitude,<,42.50677879999999,t.longitude,>,-90.2405191#1277

@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#t.imdb_index,=,I,mi.info_type_id,=,107,t.kind_id,=,1,mc.company_type_id,=,1,mi.x,>,-2.947998,mi.y,<,0.4150848,mi.z,>,-9.488434#82069

@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#mk.keyword_id,=,10927,mi_idx.info_type_id,=,99,t.phonetic_code,>=,S1,t.kind_id,=,1,t.longitude,>,-87.6383209,t.longitude,<,-74.0177249#2

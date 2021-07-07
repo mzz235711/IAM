@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#t.kind_id,=,1,t.production_year,>=,2008.0,mk.keyword_id,=,1941,mi.x,>,-14.053451999999998,mi.y,>,-17.623611,mi.z,<,4.811661#19594

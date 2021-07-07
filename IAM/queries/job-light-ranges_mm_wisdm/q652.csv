@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.kind_id,=,2,t.production_year,=,1999.0,t.series_years,>=,1999-2000,t.latitude,>,33.5382584,mi.x,>,-1.6189117,mi.x,<,1.7337952,mi.z,>,-9.348161,mi.z,<,6.106735#62736

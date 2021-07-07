@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#mi_idx.info_type_id,=,100,t.phonetic_code,>=,S1515,t.kind_id,=,1,mc.company_type_id,=,1,t.production_year,=,2008.0,mi.z,>,-0.27813720000000003#217438

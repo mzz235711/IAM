@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.season_nr,>=,1.0,t.production_year,=,2003.0,t.kind_id,=,7,t.longitude,<,-78.7634#387261

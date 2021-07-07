@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.phonetic_code,<=,A5625,t.kind_id,=,1,t.production_year,<=,1995.0,ci.role_id,=,10,mk.keyword_id,=,245,t.longitude,>,-117.8549787,t.longitude,<,-77.2733125#768

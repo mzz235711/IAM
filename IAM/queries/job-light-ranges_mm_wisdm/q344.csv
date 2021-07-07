@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,<=,1996.0,t.season_nr,<=,1.0,t.episode_nr,<=,1.0,t.phonetic_code,=,W5632,t.latitude,>,36.8405659,t.latitude,<,41.507340899999996#0

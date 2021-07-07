@@ -1,0 +1,1 @@
+movie_info mi,movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mi_idx.movie_id#t.kind_id,=,1,t.phonetic_code,>=,K5252,t.production_year,=,1976.0,mi.info_type_id,=,13,mk.keyword_id,=,29106,mi_idx.info_type_id,=,100,t.latitude,>,35.3165956,t.longitude,<,-74.4350355,mi.z,>,-0.15013120000000002,mi.z,<,0.22998049999999998#3

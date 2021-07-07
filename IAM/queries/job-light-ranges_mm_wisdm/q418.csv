@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.phonetic_code,=,A2536,t.kind_id,=,1,t.production_year,<=,1985.0,ci.role_id,=,2,ci.nr_order,=,20.0,t.latitude,>,33.761306,t.latitude,<,41.034896999999994,t.longitude,>,-96.99355,t.longitude,<,-81.3947372#0

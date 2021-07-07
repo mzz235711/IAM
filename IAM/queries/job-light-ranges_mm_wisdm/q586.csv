@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mc.company_type_id,=,2,t.production_year,=,2005.0,mk.keyword_id,=,2241,mi.info_type_id,=,13,t.kind_id,=,1,t.latitude,>,37.699167200000005,t.longitude,>,-92.9016373,t.longitude,<,-74.8779607,mi.x,>,-3.0884400000000003#314

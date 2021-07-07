@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#ci.role_id,=,8,t.kind_id,=,1,t.production_year,=,1910.0,t.phonetic_code,<=,T5243,mi_idx.info_type_id,=,100,mi.y,>,-9.871231,mi.z,>,-0.2383881#1358

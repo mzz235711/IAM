@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id,mc.movie_id=ci.movie_id#t.phonetic_code,>=,H63,mc.company_type_id,=,1,mi.info_type_id,=,76,t.production_year,>=,1988.0,t.latitude,<,41.2543136,t.longitude,>,-88.011617,mi.x,>,-9.896118,mi.x,<,0.3017578,mi.y,>,-8.471848,mi.z,<,5.903213500000001#386921

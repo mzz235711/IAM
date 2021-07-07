@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.production_year,>=,1962.0,ci.role_id,=,3,t.phonetic_code,>=,B3143,t.season_nr,<=,4.0,t.latitude,>,33.4847721#1004639

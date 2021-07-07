@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#mi_idx.info_type_id,=,99,ci.role_id,=,2,mi.info_type_id,=,4,t.latitude,>,34.6841,t.latitude,<,42.283396200000006,t.longitude,>,-119.78504,mi.x,>,-10.1479645,mi.x,<,4.299255400000001#770707

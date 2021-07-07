@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.production_year,>=,1980.0,t.phonetic_code,=,H4125,ci.nr_order,=,19.0,t.latitude,>,36.8588982,t.latitude,<,40.4487825,mi.x,>,-7.818191499999999,mi.z,>,-2.1004486,mi.z,<,1.7618407999999999#6

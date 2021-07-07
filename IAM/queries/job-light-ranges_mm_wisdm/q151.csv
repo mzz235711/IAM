@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#t.production_year,<=,1999.0,mi.info_type_id,=,106,mk.keyword_id,=,2908,mi.x,>,-0.7207489,mi.z,>,-2.271988,mi.z,<,3.1654816#145

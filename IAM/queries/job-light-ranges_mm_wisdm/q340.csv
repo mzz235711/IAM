@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.kind_id,=,7,ci.role_id,=,8,t.production_year,<=,2004.0,t.latitude,>,33.89938,t.latitude,<,41.6294#200816

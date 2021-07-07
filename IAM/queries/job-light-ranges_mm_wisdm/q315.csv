@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#ci.nr_order,>=,67.0,t.kind_id,=,1,t.phonetic_code,>=,S4162,t.production_year,=,1996.0,ci.role_id,=,2,t.latitude,<,38.3548548,t.longitude,>,-117.21504209999999,t.longitude,<,-85.53035609999999#1400

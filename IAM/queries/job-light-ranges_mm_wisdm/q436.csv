@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=mc.movie_id#t.production_year,>=,2009.0,mi_idx.info_type_id,=,100,t.kind_id,=,1,t.longitude,<,-73.56525,mi.z,>,-5.6628857,mi.z,<,0.5003814999999999#2965419

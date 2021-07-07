@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mk.keyword_id,=,6019,t.phonetic_code,>=,U1,mi.info_type_id,=,15,t.kind_id,=,1,t.production_year,=,2009.0,mc.company_type_id,=,1,t.latitude,>,35.69749,mi.x,<,1.8018341,mi.y,>,-3.055664,mi.z,>,-1.1099548000000001#210

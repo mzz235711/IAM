@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.production_year,<=,1976.0,mc.company_type_id,=,2,t.season_nr,<=,4.0,ci.nr_order,=,10.0,ci.role_id,=,1,t.episode_nr,>=,15.0,t.longitude,>,-121.8087057#6078

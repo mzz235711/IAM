@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,movie_keyword mk,title t#t.id=ci.movie_id,ci.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#t.production_year,>=,1996.0,mc.company_type_id,=,1,t.kind_id,=,1,mk.keyword_id,=,1074,t.latitude,>,33.5147222,t.latitude,<,42.295833#368516

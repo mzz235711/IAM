@@ -1,0 +1,1 @@
+cast_info ci,title t#t.id=ci.movie_id#t.episode_nr,>=,12.0,t.kind_id,=,7,t.phonetic_code,=,F3653,t.season_nr,=,5.0,t.latitude,<,41.0998#70

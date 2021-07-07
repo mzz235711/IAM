@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#mk.keyword_id,=,2853,t.phonetic_code,=,W26,ci.role_id,=,1,ci.nr_order,<=,6.0,t.production_year,<=,2012.0,t.kind_id,=,1,t.longitude,<,-71.74146429999999#4

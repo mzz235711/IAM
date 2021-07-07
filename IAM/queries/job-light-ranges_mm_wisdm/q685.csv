@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.episode_nr,>=,15.0,t.season_nr,>=,8.0,t.production_year,>=,1998.0,t.latitude,>,36.0726468,mi.x,>,-3.495514,mi.y,<,9.512344,mi.z,>,-6.335266000000001,mi.z,<,1.0334625#636231

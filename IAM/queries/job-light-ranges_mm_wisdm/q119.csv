@@ -1,0 +1,1 @@
+movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id#mk.keyword_id,=,2241,mi.info_type_id,=,16,t.kind_id,=,1,t.latitude,>,30.227305199999996,t.longitude,>,-89.1319909,mi.x,>,-6.7435149999999995,mi.x,<,2.1333922999999997,mi.z,>,-9.991364,mi.z,<,1.7541351000000003#2611

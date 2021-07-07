@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.production_year,=,1985.0,t.season_nr,<=,2.0,mi.info_type_id,=,15,ci.role_id,=,1,mi_idx.info_type_id,=,101,t.phonetic_code,=,M2613,mi.z,>,-7.857147#360

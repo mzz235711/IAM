@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#t.production_year,=,2003.0,t.kind_id,=,7,mi_idx.info_type_id,=,101,t.season_nr,=,1.0,t.episode_nr,>=,1.0,t.latitude,>,33.6376992,t.latitude,<,42.2919445#2446

@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.kind_id,=,7,mi_idx.info_type_id,=,99,t.phonetic_code,>=,N612,t.episode_nr,<=,4.0,t.latitude,>,33.0347113,t.longitude,>,-122.29078840000001,t.longitude,<,-82.61281009999999#12399

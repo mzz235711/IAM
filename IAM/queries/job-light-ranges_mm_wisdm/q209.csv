@@ -1,0 +1,1 @@
+movie_info_idx mi_idx,movie_keyword mk,title t#t.id=mi_idx.movie_id,mi_idx.movie_id=mk.movie_id#t.kind_id,=,7,t.season_nr,>=,3.0,t.phonetic_code,<=,O5343,mi_idx.info_type_id,=,100,t.production_year,=,2004.0,t.latitude,>,29.9814728#2988

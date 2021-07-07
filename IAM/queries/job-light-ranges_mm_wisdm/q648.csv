@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#t.phonetic_code,<=,I5125,t.kind_id,=,1,t.imdb_index,>=,I,t.longitude,>,-94.3588,mi.x,>,-10.091888,mi.y,>,-11.087997#5292474

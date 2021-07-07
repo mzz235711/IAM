@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.production_year,>=,2007.0,ci.role_id,=,2,t.phonetic_code,<=,C4235,mc.company_type_id,=,2,t.longitude,<,-82.9870017#167136

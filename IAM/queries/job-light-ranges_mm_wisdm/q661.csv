@@ -1,0 +1,1 @@
+cast_info ci,movie_info mi,movie_info_idx mi_idx,title t#t.id=mi.movie_id,mi.movie_id=mi_idx.movie_id,mi_idx.movie_id=ci.movie_id#mi_idx.info_type_id,=,101,mi.info_type_id,=,18,ci.role_id,=,1,t.kind_id,=,1,t.production_year,>=,2012.0,t.phonetic_code,>=,E5313,t.latitude,<,45.522784200000004,t.longitude,<,-79.9784,mi.z,<,3.9022980000000005#73215

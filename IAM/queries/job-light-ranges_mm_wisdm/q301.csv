@@ -1,0 +1,1 @@
+cast_info ci,movie_keyword mk,title t#t.id=mk.movie_id,mk.movie_id=ci.movie_id#t.season_nr,=,4.0,ci.role_id,=,1,t.episode_nr,>=,4.0,t.production_year,<=,2002.0,t.phonetic_code,<=,L1536,t.latitude,>,34.24159470000001,t.latitude,<,38.5923009,t.longitude,>,-110.9158365,t.longitude,<,-81.47771390000001#3391

@@ -1,0 +1,1 @@
+movie_companies mc,movie_info_idx mi_idx,title t#t.id=mc.movie_id,mc.movie_id=mi_idx.movie_id#t.kind_id,=,3,mc.company_type_id,=,2,mi_idx.info_type_id,=,99,t.production_year,>=,1974.0,t.longitude,>,-93.747545#31943

@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#t.kind_id,=,7,t.season_nr,>=,1.0,t.episode_nr,>=,4.0,t.production_year,=,1993.0,mi.info_type_id,=,16,t.longitude,<,-83.2214877,mi.y,>,-7.9918976#2888

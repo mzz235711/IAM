@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,title t#t.id=mi.movie_id,mi.movie_id=mc.movie_id#mc.company_type_id,=,2,t.production_year,<=,1995.0,t.season_nr,>=,8.0,t.episode_nr,>=,8.0,mi.info_type_id,=,15,t.kind_id,=,7,mi.y,>,-4.0704803,mi.z,>,-5.6570279999999995,mi.z,<,2.6894379#516

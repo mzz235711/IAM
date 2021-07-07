@@ -1,0 +1,1 @@
+movie_companies mc,movie_info mi,movie_keyword mk,title t#t.id=mi.movie_id,mi.movie_id=mk.movie_id,mk.movie_id=mc.movie_id#mc.company_type_id,=,1,t.phonetic_code,=,G436,t.kind_id,=,1,t.latitude,>,35.6329,t.latitude,<,49.2592531,t.longitude,<,-71.0620004,mi.y,>,-6.5230713#24890

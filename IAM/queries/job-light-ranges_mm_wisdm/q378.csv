@@ -1,0 +1,1 @@
+cast_info ci,movie_companies mc,title t#t.id=ci.movie_id,ci.movie_id=mc.movie_id#t.kind_id,=,7,t.phonetic_code,=,C2162,t.episode_nr,=,22.0,ci.role_id,=,1,mc.company_type_id,=,2,t.production_year,=,2009.0,t.longitude,>,-123.0114868#66
