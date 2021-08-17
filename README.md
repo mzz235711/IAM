@@ -1,2 +1,2 @@
 # IAM
-The source code will be published before July 12th, 2021.
+The source code is developed based on Neurocard (https://github.com/neurocard/neurocard).
